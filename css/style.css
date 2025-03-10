@@ -76,7 +76,7 @@ color: #2e2f42;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  max-width: 1440px;
+  min-width: 1440px;
 }
 .effective {
   font-size: 56px;
