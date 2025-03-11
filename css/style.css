@@ -85,7 +85,7 @@ color: #2e2f42;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  min-width: 1440px;
+  max-width: 1440px;
 }
 .effective {
   font-size: 56px;
@@ -391,7 +391,7 @@ height:40px;
   color: #FFFFFF;
   margin-bottom: 16px;
 }
-.footer-container > :last-child {
+.gg > :last-child {
   gap: 16px;
 }
 .link-media-footera {
