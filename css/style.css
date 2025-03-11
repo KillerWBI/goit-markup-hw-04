@@ -311,10 +311,11 @@ align-items: center;
   display: flex;
   justify-content: center;
   gap: 24px;
+  padding: 0;
 }
 .media-list {
-width: 40px;
-height: 40px;
+width:40px;
+height:40px;
 }
 .link-media{
   width: 100%;
