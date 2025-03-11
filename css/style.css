@@ -329,6 +329,9 @@ height: 40px;
 .link-media:hover {
   background-color: #404bbf;
 }
+.link-media:focus {
+  background-color: #404bbf;
+}
 .icon {
   fill:#f4f4fd;
 }
