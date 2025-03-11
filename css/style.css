@@ -378,8 +378,11 @@ height:40px;
 .footer-container{
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
+.footer-container > :first-child {
+  margin-right: 120px
+}
+
 .footer-media-p {
   font-weight: 500;
   font-size: 16px;
