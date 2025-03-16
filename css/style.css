@@ -13,6 +13,10 @@ h6,
 p {
   margin: 0;
 }
+ul , ol { 
+  margin: 0;
+  padding: 0;
+}
 
   body {
     color: #434455;
@@ -35,7 +39,12 @@ p {
   font-variation-settings:
     "wdth" 100;
 }
-
+a {
+  display: block;
+}
+.div-order {
+  gap:20px; 
+}
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
