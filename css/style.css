@@ -350,12 +350,13 @@ height:40px;
   justify-content: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.link-media:hover {
-  background-color: #404bbf;
+
+.media-list > .link-media:hover {
+  background-color: #31d0aa; 
 }
-.link-media:focus {
-  background-color: #404bbf;
-}
+.media-list > .link-media:focus {
+  background-color: #31d0aa; 
+  }
 
 .conteiner-image {
   position: relative;
