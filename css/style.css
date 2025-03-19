@@ -17,8 +17,12 @@ ul , ol {
   margin: 0;
   padding: 0;
 }
-.first-element {
+.first-element-menu {
   color: #404bbf;
+  font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
   body {
     color: #434455;
